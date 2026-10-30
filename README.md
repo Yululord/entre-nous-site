@@ -2,6 +2,6 @@
 
 Support page, Privacy Policy and Terms of Use for the Entre Nous iOS app, served with GitHub Pages:
 
-- https://yululord.github.io/entre-nous/
-- https://yululord.github.io/entre-nous/privacy.html
-- https://yululord.github.io/entre-nous/terms.html
+- https://yululord.github.io/entre-nous-site/
+- https://yululord.github.io/entre-nous-site/privacy.html
+- https://yululord.github.io/entre-nous-site/terms.html
